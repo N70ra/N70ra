@@ -4,7 +4,7 @@
 - 🖥️ Currently Using: NixOS ❄️ + Hyprland  • 🦜 ParrotOS + GNOME (Secondary, testing)
 
 - Former Arch user.
-- Aiming to learn Nix flakes and shells.
+- Learning Nix flakes and lua.
 - "I use 🅰️rch btw -> I use Nix❄️s btw"
 
 
