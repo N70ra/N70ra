@@ -1,5 +1,4 @@
-## Why hello there 👋
--
+## Why hello there 🪿
 🪿 18 y.o. Goose | Linux enthusiast, Open-Source chaser
 - 🖥️ Currently Using: NixOS + Hyprland
 - Former Arch user.
