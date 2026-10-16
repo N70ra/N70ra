@@ -1,4 +1,4 @@
-## Why hello there 🪿
+## Why hello there 🪿 
 🪿 18 y.o. Linux user,
 
 - 🖥️ Currently Using: NixOS ❄️ + Hyprland  • 🦎 OpenSUSE Tumbleweed + KDE 
