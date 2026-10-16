@@ -1,4 +1,6 @@
 ## Why hello there 🪿
+--
+## Yiğitlikte var yine serde.
 🪿 18 y.o. Linux user, open-source 📧njoyer
 
 - 🖥️ Currently Using: NixOS ❄️ + Hyprland  • 🦜 ParrotOS + GNOME (Secondary, testing)
